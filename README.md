@@ -73,12 +73,8 @@ Coding and art are my karakia — a way to breathe wairua into pixels 🌊
 > *“He tangata takahi manuhiri, he marae puehu.”*  
 > A coder who mistreats their collaborators ends up with dusty repos 😭  
 
-✨ Code with aroha  
-✨ Dream with mana  
-✨ Deploy with chaos  
-
 <h3 align="center">
-🌈💖 Kia kaha, kia māia, kia manawanui 💖🌈  
+oooo
 </h3>
 
 <p align="center">
