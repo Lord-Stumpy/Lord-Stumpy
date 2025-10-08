@@ -1,69 +1,29 @@
-<!--
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃      Welcome to the Dark Side of Code      ┃
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
--->
-
 # 👑 Lord-Stumpy
 
-Welcome, mortal. You’ve entered the realm of **Lord-Stumpy** — where code bleeds, logic reigns, and bugs fear to tread.
-
-> “In the wasteland of erroneous scripts, I am the storm.”  
-
----
-
-## 🔥 About Me
-
-- ☠️ **Alias**: Lord-Stumpy  
-- 💻 **Focus**: Systems, tools, cryptic scripts, and chaos architectures  
-- ⚔️ **Philosophy**: If a function doesn’t terrify you, it doesn’t deserve to exist  
-- 🧠 **Forever learning**: Low-level, optimization, hacking the sane limits  
+Hey there — I’m **Lord-Stumpy**.  
+I make things that probably shouldn’t work but somehow do anyway.  
+Code, art, random experiments — if it’s weird, I’m probably into it.
 
 ---
 
-## 📊 Stats & Activity
-
-<!-- GitHub metrics / stats cards -->
-[![Stumpy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Stumpy&show_icons=true&theme=dark)](https://github.com/Lord-Stumpy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Stumpy&layout=compact&theme=dark)](https://github.com/Lord-Stumpy)
-
----
-
-## 🛠️ My Arsenal
-
-| Weapon Type        | Tools & Languages                 |
-|--------------------|-----------------------------------|
-| Blade (Primary)    | Rust, C, C++                       |
-| Dagger (Side)      | Python, Bash, Go                   |
-| Shield (Support)   | Docker, Kubernetes, CI/CD          |
-| Forbidden Sigils   | Assembly, Reverse Engineering      |
+### 🧠 About Me
+- 💻 Mostly messing around with **tools, games, and creative tech**
+- 🧩 Big fan of learning how things *actually* work under the hood  
+- 🕶️ Sometimes I make nice things — sometimes I make cursed ones  
+- 🎧 Music, visuals, and chaos fuel everything I do  
 
 ---
 
-## 🚀 Projects & Experiments
-
-> “Every line of code is a spell. Use it wisely — or don’t. I won’t stop you.”
-
-(Projects will appear here soon. Stay tuned.)
-
----
-
-## ⚡ Connect With Me
-
-- 🐦 Twitter / X: *(Your handle)*  
-- 🌐 Personal / Portfolio: *(Your site)*  
-- 📬 Email: *(Your contact)*  
+### ⚔️ Tech & Tools
+| Type | Stuff I Use |
+|------|--------------|
+| Main | Python, JavaScript, HTML/CSS |
+| Side | C#, Godot, Unity, Bash |
+| Design | Photoshop, Clip Studio, Blender |
+| Experiments | AI, shaders, automation |
 
 ---
 
-## 🧪 Challenge The Darkness
-
-I don’t craft code to fit in. I forge it to stand out — jagged, ominous, and unrelenting.  
-
-If you’re down to build something twisted, wild, or legendary — **let’s do this**.
-
----
-
-👋 Thanks for stopping by — enjoy the shadows.  
-— Lord-Stumpy  
-
+### 📊 GitHub Stats
+[![Stumpy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Stumpy&show_icons=true&theme=radical)](https://github.com/Lord-Stumpy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Stumpy&layout=compact&theme=radical)](https://github.com/Lord-Stumpy)
