@@ -56,9 +56,9 @@ worldbuilding infused with whakapapa, mana, and a dash of chaos 💫
 Coding and art are my karakia — a way to breathe wairua into pixels 🌊  
 
 ---
-<p align="center">
-### 💖 **Let’s Connect!**
-</p>
+<h1 align="center">
+**Let’s Connect!**
+</h1>
 
 <p align="center">
 <a href="https://github.com/Lord-Stumpy"><img src="https://img.shields.io/badge/GitHub-Lord--Stumpy-ff79c6?style=for-the-badge&logo=github" /></a>
