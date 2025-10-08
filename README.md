@@ -35,29 +35,15 @@ I'm <b>Lord-Stumpy</b> — Māori creator, concept artist & chaos coder ⚡
 
 ---
 
-### 💅 **My Arsenal of Chaos**
-
-| 🌟 Category | 💼 Tools |
-|--------------|----------|
-| 🎨 **Art Magic** | Photoshop • Clip Studio • Procreate |
-| 💻 **Code Spells** | HTML • CSS • JS • Python |
-| 🌌 **Creative Alchemy** | Storytelling • Design • Visual Worldbuilding |
-| 🍪 **Mana Snacks** | InDesign • After Effects • Snacks & Vibes |
-
----
-
-### 🪶 **Māori Energy in Motion**
 > “He toi whakairo, he mana tangata.”  
-> Through creative expression, we find our strength 🌺  
+> Through creative expression, we find our strength  
 
 I blend **Māori worldviews** with **digital art and design** —  
 worldbuilding infused with whakapapa, mana, and a dash of chaos 💫  
 
-Coding and art are my karakia — a way to breathe wairua into pixels 🌊  
-
 ---
 <h1 align="center">
-**Let’s Connect!**
+Let’s Connect!
 </h1>
 
 <p align="center">
