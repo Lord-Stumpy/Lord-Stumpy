@@ -1,4 +1,4 @@
-# 👑 Lord-Stumpy
+<!-- 🌺💫 LORD-STUMPY README: chaos, aroha, and code 💫🌺 -->
 
 <h1 align="center">
 ✨💖 Kia ora e te whānau! 💖✨  
@@ -12,30 +12,75 @@ I'm <b>Lord-Stumpy</b> — Māori creator, concept artist & chaos coder ⚡
 <img src="https://media.tenor.com/Z8z5H0Yx1GAAAAAd/rainbow-cat.gif" width="80" />
 </p>
 
-Hey there — I’m **Lord-Stumpy**.  
-I make things that probably shouldn’t work but somehow do anyway.  
-Code, art, random experiments — if it’s weird, I’m probably into it.
+---
+
+### 🌈 **Who Am I?**
+> “Coding with aroha, caffeine, and the energy of a thousand taniwha.”
+
+🌀 **Ngāti Porou represent!**  
+💻 Studying **Screen Arts — Concept Art & Design**  
+🎨 I draw worlds, code dreams, and break software (affectionately)  
+🍵 Fuel source: caffeine, curiosity, and Māori mischief  
+💫 Motto: *Aroha i roto i te algorithm* — love inside the code 💖  
 
 ---
 
-### 🧠 About Me
-- 💻 Mostly messing around with **tools, games, and creative tech**
-- 🧩 Big fan of learning how things *actually* work under the hood  
-- 🕶️ Sometimes I make nice things — sometimes I make cursed ones  
-- 🎧 Music, visuals, and chaos fuel everything I do  
+### 🌸 **GitHub Vibes**
+<div align="center">
+
+[![Stumpy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Stumpy&show_icons=true&theme=tokyonight&title_color=ff9ff3&icon_color=f368e0&bg_color=000000&hide_border=true)](https://github.com/Lord-Stumpy)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Stumpy&layout=compact&theme=tokyonight&title_color=ff9ff3&bg_color=000000&hide_border=true)](https://github.com/Lord-Stumpy)
+
+</div>
 
 ---
 
-### ⚔️ Tech & Tools
-| Type | Stuff I Use |
-|------|--------------|
-| Main | Python, JavaScript, HTML/CSS |
-| Side | C#, Godot, Unity, Bash |
-| Design | Photoshop, Clip Studio, Blender |
-| Experiments | AI, shaders, automation |
+### 💅 **My Arsenal of Chaos**
+
+| 🌟 Category | 💼 Tools |
+|--------------|----------|
+| 🎨 **Art Magic** | Photoshop • Clip Studio • Procreate |
+| 💻 **Code Spells** | HTML • CSS • JS • Python |
+| 🌌 **Creative Alchemy** | Storytelling • Design • Visual Worldbuilding |
+| 🍪 **Mana Snacks** | InDesign • After Effects • Snacks & Vibes |
 
 ---
 
-### 📊 GitHub Stats
-[![Stumpy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord-Stumpy&show_icons=true&theme=radical)](https://github.com/Lord-Stumpy)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord-Stumpy&layout=compact&theme=radical)](https://github.com/Lord-Stumpy)
+### 🪶 **Māori Energy in Motion**
+> “He toi whakairo, he mana tangata.”  
+> Through creative expression, we find our strength 🌺  
+
+I blend **Māori worldviews** with **digital art and design** —  
+worldbuilding infused with whakapapa, mana, and a dash of chaos 💫  
+
+Coding and art are my karakia — a way to breathe wairua into pixels 🌊  
+
+---
+
+### 💖 **Let’s Connect!**
+
+<p align="center">
+<a href="https://github.com/Lord-Stumpy"><img src="https://img.shields.io/badge/GitHub-Lord--Stumpy-ff79c6?style=for-the-badge&logo=github" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Ngāti%20Porou%20Pride-💙🖤💙-ff9ff3?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Caffeine-Powered☕-f368e0?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Chaos-Certified🔥-8be9fd?style=for-the-badge" /></a>
+</p>
+
+---
+
+### 🌺 **Final Words of Wisdom**
+
+> *“He tangata takahi manuhiri, he marae puehu.”*  
+> A coder who mistreats their collaborators ends up with dusty repos 😭  
+
+✨ Code with aroha  
+✨ Dream with mana  
+✨ Deploy with chaos  
+
+<h3 align="center">
+🌈💖 Kia kaha, kia māia, kia manawanui 💖🌈  
+</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/47ZyCKP2cFIAAAAi/cute.gif" width="90" />
+</p>
