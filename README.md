@@ -1,5 +1,17 @@
 # 👑 Lord-Stumpy
 
+<h1 align="center">
+✨💖 Kia ora e te whānau! 💖✨  
+</h1>
+
+<h2 align="center">
+I'm <b>Lord-Stumpy</b> — Māori creator, concept artist & chaos coder ⚡  
+</h2>
+
+<p align="center">
+<img src="https://media.tenor.com/Z8z5H0Yx1GAAAAAd/rainbow-cat.gif" width="80" />
+</p>
+
 Hey there — I’m **Lord-Stumpy**.  
 I make things that probably shouldn’t work but somehow do anyway.  
 Code, art, random experiments — if it’s weird, I’m probably into it.
