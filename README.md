@@ -68,11 +68,6 @@ Coding and art are my karakia — a way to breathe wairua into pixels 🌊
 
 ---
 
-### 🌺 **Final Words of Wisdom**
-
-> *“He tangata takahi manuhiri, he marae puehu.”*  
-> A coder who mistreats their collaborators ends up with dusty repos 😭  
-
 <h3 align="center">
 oooo
 </h3>
