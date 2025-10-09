@@ -61,13 +61,11 @@ If you vibe with creative chaos, weird art, or late-night coding marathons — l
 </tr>
 </table>
 
-*Stay tuned — something's always cooking. If it's weird, I'm probably working on it.*s://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=👑+Lord-Stumpy;Code+%7C+Art+%7C+Chaos;Building+Weird+Stuff...)
-
 ### 💀 *"Keep building weird stuff. The world's got enough normal."*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</div>-Stumpy's Profile README -->
+
 <div align="center">
 
 # 👑 Lord-Stumpy
@@ -80,7 +78,7 @@ If you vibe with creative chaos, weird art, or late-night coding marathons — l
 
 ## 🧠 Who Am I?
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/1385000341615017987/1425638663827493038/557551108_4098911183703222_6666991674212349414_n.jpg?ex=68e850f8&is=68e6ff78&hm=d76113d3a56c4e44d3c291815f9b96304a21205ebabb799001b03c97b9d6e522&">
 
 - 💻 Building **tools, games, and creative experiments**
 - 🧩 Always reverse-engineering how things *really* work
